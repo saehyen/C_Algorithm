@@ -6,6 +6,9 @@
 - 영어라면 맞는 숫자 붙여주기
 - 문법 : if (strncmp(table[i], s, strlen(table[i])) == 0
 
+#### 문자열을 정수로 바꾸기
+- atoi 메소드 이용
+
 #### 문자열 내림차순으로 배치하기
 - compare 함수 만들기
 - c언어 내부 quick sort가 존재함
